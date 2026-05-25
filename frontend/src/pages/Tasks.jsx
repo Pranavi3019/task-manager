@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import API from "../api";
+import API from "../Api";
 
 export default function Tasks() {
   const [tasks, setTasks] = useState([]);
