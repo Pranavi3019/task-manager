@@ -6,7 +6,7 @@ import TaskChart from "../components/TaskChart";
 import TaskCard from "../components/TaskCard";
 import Sidebar from "../components/Sidebar";
 
-import API from "../api";
+import API from "../Api";
 
 function Dashboard() {
 
